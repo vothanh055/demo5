@@ -1,0 +1,58 @@
+.nam {
+  display: flex;
+  margin-left: 20px;
+  flex-direction: row;
+  position: relative; }
+  .nam .xanh {
+    width: 100px;
+    height: 100px;
+    background: #333;
+    margin-left: 10px;
+    height: 2000px;
+    background: #777777;
+    color: white;
+    overflow: hidden; }
+    .nam .xanh .do {
+      width: 100px;
+      height: 100px;
+      background: red; }
+    .nam .xanh ul {
+      position: absolute;
+      left: 0;
+      top: 20px;
+      display: none;
+      background: #333;
+      color: red; }
+    .nam .xanh .red {
+      color: red; }
+    .nam .xanh .hcn {
+      display: flex;
+      flex-wrap: nowrap;
+      width: 2400px;
+      transition: all 0.5s ease-in; }
+      .nam .xanh .hcn div {
+        width: 800px;
+        height: 400px; }
+      .nam .xanh .hcn .red {
+        background: red; }
+      .nam .xanh .hcn .blue {
+        background: blue; }
+      .nam .xanh .hcn .yellow {
+        background: yellow; }
+    .nam .xanh .nuts {
+      display: flex; }
+      .nam .xanh .nuts .nut {
+        margin-right: 20px;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background: #333; }
+  .nam .totop {
+    background: #555;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px; }
+  .nam .active {
+    background: white !important; }

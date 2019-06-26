@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.0.min.js"></script>
+</head>
+<script>
+$("#hide-khong").click(function(){
+    $("div").hide(1000);
+    alert("Đã ẩn phần tử HTML");
+});
+$("#hide-co").click(function(){
+    $("div").hide(1000, function(){
+        alert("Đã ẩn phần tử HTML");
+    });
+});
+  </script>
+<style type="text/css">
+  div{height:100px;margin-bottom:30px;}
+</style>
+<body>
+  
+  <p id="hide-khong">nam</p>
+  <p id="hide-co">nam</p>
+  <div >thap</div>
+   
+</body>
+
+</html>

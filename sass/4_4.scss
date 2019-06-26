@@ -1,0 +1,280 @@
+.nam{
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    // width: 1000px;
+    img{
+      width: 124px;
+      height: 26px;
+    }
+    h1{
+      margin-top: 20px;
+      font-size: 26px;
+        color: #95a5a6;
+      span{
+        color: #000;
+        font-size: 26px;
+      }
+    }
+    .nam1{
+      border-left: 2px dotted #a6a6a6;
+      width: 585px;
+      height: 556px;
+      border-right: 1px solid #cecece;
+      box-sizing: border-box;
+      margin-left: 15px;
+      margin-top: 20px;
+      .thu{
+        display: flex;
+        margin-top: -20px;
+        h1{
+          
+          background: white;
+          margin-left: -22px;
+          text-align: center;
+          padding-top: 5px;
+            width: 45px;
+            height: 45px;
+            border: #a6a6a6 solid 1px;
+            border-radius: 50%;
+            color: #a6a6a6;
+        }
+        h2{
+          margin-top: 30px;
+          font-size: 24px;
+          margin-left: 18px;
+          color: black;
+  
+        }
+      }
+     
+      p{
+        margin-top: 10px;
+        font-size: 18px;
+        color: #000;
+        margin-left: 60px;
+      }
+      form{
+          margin-top: -25px;
+          margin-left: -74px;
+       .haha{
+           display: flex;
+       }
+       .username,.username1{
+                padding-top: 20px;
+                padding-bottom: 20px;
+           input{ 
+                margin-top: 10px;
+                margin-left: 60px;
+               padding-top: 2px;
+               width: 216px;
+               height: 1px;
+               background: white;
+               padding: 30px;  
+               border: 1px solid rgba(0,0,0,.6);
+  
+           }
+         }
+         .username2,.username3,.username4{
+       
+            input{ 
+                 margin-top: 10px;
+                 margin-left: 60px;
+                padding-top: 2px;
+                width: 442px;
+                height: 1px;
+                background: white;
+                padding: 30px;  
+                border: 1px solid rgba(0,0,0,.6);
+   
+            }
+          }
+        }
+        .nam22{
+          width: 120px;
+          height: 36px;
+          background: #0067B8;
+          text-align: center;
+          margin-left: -12px;
+          margin-top: 20px;
+          h4{
+            padding-top: 8px;
+            color: #FFF;
+          }
+        }
+        .nam3{
+          font-size: 24px;
+          color: #a6a6a6;
+          margin-left: 60px;
+         
+          .nam33{
+           margin-left: 0px;
+            font-size: 24px;
+            color: #a6a6a6;
+          }
+          .thu2,.thu3,.thu4{
+            display: flex;
+            margin-left: -83px;
+            margin-top: -10px;
+            h1{
+              text-align: center;
+              padding-top: 5px;
+                width: 45px;
+                height: 45px;
+                border: #a6a6a6 solid 1px;
+                border-radius: 50%;
+                color: #a6a6a6;
+                background: white;
+            }
+            h2{
+              margin-top: 30px;
+              font-size: 24px;
+              margin-left: 18px;
+              color: #a6a6a6;
+      
+            }
+          }
+          .thu1{
+            display: flex;
+            margin-left: -83px;
+  
+            h1{
+              text-align: center;
+              padding-top: 5px;
+                width: 45px;
+                height: 45px;
+                border: #000 solid 1px;
+                border-radius: 50%;
+                color: #000;
+                background: white;
+            }
+            h2{
+              margin-top: 30px;
+              font-size: 24px;
+              margin-left: 18px;
+              color: #000;
+      
+            }
+            
+          }
+          .lala{
+              display: flex;
+              margin-left: -22px;
+              margin-top: -19px;
+            h3{
+                width: 24px;
+                height: 24px;
+                background-color: #0067B8;
+                border-radius: 50%;
+                margin-left: 8px;
+            }
+            h4{
+                width: 24px;
+                height: 24px;
+                background-color: #b3b3b3;
+                border-radius: 50%;
+                margin-left: 8px;
+            }
+          }
+          h3,h4,h5{
+            margin-top: 20px;
+            font-size: 24px;
+          }
+        }
+    }
+    .thanh{
+      margin-top: 20px;
+      margin-left: -60px;
+      h2{
+        font-size: 24px;
+        color: #000;
+        margin-left: 160px;
+        margin-top: 20px;
+        
+      }
+      h3{
+        font-size: 20px;
+        color: #000;
+        margin-left: 160px;
+        margin-top: 20px;
+      }
+      .thanh2{
+        margin-top: 20px;
+        margin-left: 148px;
+       img{
+        font-size: 20px;
+        width: 64px;
+        width: 64px;
+       }
+      }
+      h4{
+        color: #000;
+        font-size: 20px;
+        margin-left: 160px;
+        margin-top: 25px;
+      }
+      .thanh3{
+       
+        img{
+          font-size: 20px;
+          width: 64px;
+          height: 64px;
+          margin-left: 160px;
+          margin-top: 20px;
+        }
+      }
+      h5{
+        font-size: 20px;
+        color: #000;
+        margin-left: 160px;
+          margin-top: 20px;
+      }
+      .loi,.loi1{
+        display: flex;
+        margin-left: 160px;
+          margin-top: 40px;
+        i{
+  
+        }
+        p{
+          margin-left: 10px;
+        }
+      }
+    }
+    .y{
+      display: flex;
+      height: 561px;
+      margin-left: 5%;
+      margin-right: 5%;
+      max-width: 1536px;
+     
+      counter-reset: list;
+    }
+  }
+  .lao{
+    margin-top: 60px;
+    height: 51px;
+    background-color: #a6a6a6;
+    ul{
+      display: flex;
+      margin-left: 750px;
+      li{
+        margin-top: 15px;
+        a{
+          padding-top: 10px;
+          color: #000;
+          font-size: 11px;
+          margin-left: 10px;
+         
+        }
+      }
+    }
+    button{
+      margin-left: 1150px;
+      margin-top: -28px;
+      width: 126px;
+      height: 34px;
+      color: white;
+     background-color: #505050;
+    }
+  }

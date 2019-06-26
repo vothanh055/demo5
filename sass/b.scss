@@ -1,0 +1,83 @@
+.nam{
+    display: flex;
+    margin-left: 20px;
+    flex-direction: row;
+    position: relative;
+
+    .xanh{
+        width: 100px;
+        height: 100px;
+        background: #333;
+        margin-left: 10px;
+    //     &:hover{
+    //         ~ .do{
+    //             transform: translateX(10px);
+    //         }
+    //     }
+    //  }
+    .do{
+         width: 100px;
+        height: 100px;
+        background: red;
+     }
+    ul{
+        position: absolute;
+        left: 0;
+        top: 20px;
+        display: none;
+        background: #333;
+        color: red;
+    }
+        height: 2000px;
+        background: #777777;
+        color: white;
+        .red{
+            color: red;
+        }
+        overflow: hidden;
+        .hcn{
+            display: flex;
+            flex-wrap: nowrap;
+           
+            width: 2400px;
+            transition: all 0.5s ease-in;
+
+            div{
+                width: 800px;
+                height: 400px;
+            }
+            .red{
+                background: red;
+            }
+            .blue{
+                background: blue;
+            }
+            .yellow{
+                background: yellow;
+            }
+        }
+        .nuts{
+            display: flex;
+            .nut{
+                margin-right: 20px;
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background: #333;
+            }
+        }
+}
+.totop{
+    background: #555;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    // left: 10px;
+    right: 10px;
+    bottom: 10px;
+   
+}
+.active{
+    background: white !important;
+}
+}

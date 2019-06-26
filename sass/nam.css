@@ -1,0 +1,22 @@
+.text {
+  color: red;
+  padding: 10px 5px 5px 5px;
+}
+
+.toi {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px 5px 10px 5px;
+}
+
+.list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.em {
+  border: 2px solid red;
+}
+/*# sourceMappingURL=nam.css.map */

@@ -1,0 +1,318 @@
+.nam {
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.nam img {
+  width: 124px;
+  height: 26px;
+}
+
+.nam h1 {
+  margin-top: 20px;
+  font-size: 26px;
+  color: #95a5a6;
+}
+
+.nam h1 span {
+  color: #000;
+  font-size: 26px;
+}
+
+.nam .nam1 {
+  border-left: 2px dotted #a6a6a6;
+  width: 585px;
+  height: 556px;
+  border-right: 1px solid #cecece;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.nam .nam1 .thu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: -20px;
+}
+
+.nam .nam1 .thu h1 {
+  background: white;
+  margin-left: -22px;
+  text-align: center;
+  padding-top: 5px;
+  width: 45px;
+  height: 45px;
+  border: #a6a6a6 solid 1px;
+  border-radius: 50%;
+  color: #a6a6a6;
+}
+
+.nam .nam1 .thu h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  margin-left: 18px;
+  color: black;
+}
+
+.nam .nam1 p {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #000;
+  margin-left: 60px;
+}
+
+.nam .nam1 form {
+  margin-top: -25px;
+  margin-left: -74px;
+}
+
+.nam .nam1 form .haha {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.nam .nam1 form .username, .nam .nam1 form .username1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nam .nam1 form .username input, .nam .nam1 form .username1 input {
+  margin-top: 10px;
+  margin-left: 60px;
+  padding-top: 2px;
+  width: 216px;
+  height: 1px;
+  background: white;
+  padding: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.nam .nam1 form .username2 input, .nam .nam1 form .username3 input, .nam .nam1 form .username4 input {
+  margin-top: 10px;
+  margin-left: 60px;
+  padding-top: 2px;
+  width: 442px;
+  height: 1px;
+  background: white;
+  padding: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.nam .nam1 .nam22 {
+  width: 120px;
+  height: 36px;
+  background: #0067B8;
+  text-align: center;
+  margin-left: -12px;
+  margin-top: 20px;
+}
+
+.nam .nam1 .nam22 h4 {
+  padding-top: 8px;
+  color: #FFF;
+}
+
+.nam .nam1 .nam3 {
+  font-size: 24px;
+  color: #a6a6a6;
+  margin-left: 60px;
+}
+
+.nam .nam1 .nam3 .nam33 {
+  margin-left: 0px;
+  font-size: 24px;
+  color: #a6a6a6;
+}
+
+.nam .nam1 .nam3 .thu2, .nam .nam1 .nam3 .thu3, .nam .nam1 .nam3 .thu4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -83px;
+  margin-top: -10px;
+}
+
+.nam .nam1 .nam3 .thu2 h1, .nam .nam1 .nam3 .thu3 h1, .nam .nam1 .nam3 .thu4 h1 {
+  text-align: center;
+  padding-top: 5px;
+  width: 45px;
+  height: 45px;
+  border: #a6a6a6 solid 1px;
+  border-radius: 50%;
+  color: #a6a6a6;
+  background: white;
+}
+
+.nam .nam1 .nam3 .thu2 h2, .nam .nam1 .nam3 .thu3 h2, .nam .nam1 .nam3 .thu4 h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  margin-left: 18px;
+  color: #a6a6a6;
+}
+
+.nam .nam1 .nam3 .thu1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -83px;
+}
+
+.nam .nam1 .nam3 .thu1 h1 {
+  text-align: center;
+  padding-top: 5px;
+  width: 45px;
+  height: 45px;
+  border: #000 solid 1px;
+  border-radius: 50%;
+  color: #000;
+  background: white;
+}
+
+.nam .nam1 .nam3 .thu1 h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  margin-left: 18px;
+  color: #000;
+}
+
+.nam .nam1 .nam3 .lala {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -22px;
+  margin-top: -19px;
+}
+
+.nam .nam1 .nam3 .lala h3 {
+  width: 24px;
+  height: 24px;
+  background-color: #0067B8;
+  border-radius: 50%;
+  margin-left: 8px;
+}
+
+.nam .nam1 .nam3 .lala h4 {
+  width: 24px;
+  height: 24px;
+  background-color: #b3b3b3;
+  border-radius: 50%;
+  margin-left: 8px;
+}
+
+.nam .nam1 .nam3 h3, .nam .nam1 .nam3 h4, .nam .nam1 .nam3 h5 {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+.nam .thanh {
+  margin-top: 20px;
+  margin-left: -60px;
+}
+
+.nam .thanh h2 {
+  font-size: 24px;
+  color: #000;
+  margin-left: 160px;
+  margin-top: 20px;
+}
+
+.nam .thanh h3 {
+  font-size: 20px;
+  color: #000;
+  margin-left: 160px;
+  margin-top: 20px;
+}
+
+.nam .thanh .thanh2 {
+  margin-top: 20px;
+  margin-left: 148px;
+}
+
+.nam .thanh .thanh2 img {
+  font-size: 20px;
+  width: 64px;
+  width: 64px;
+}
+
+.nam .thanh h4 {
+  color: #000;
+  font-size: 20px;
+  margin-left: 160px;
+  margin-top: 25px;
+}
+
+.nam .thanh .thanh3 img {
+  font-size: 20px;
+  width: 64px;
+  height: 64px;
+  margin-left: 160px;
+  margin-top: 20px;
+}
+
+.nam .thanh h5 {
+  font-size: 20px;
+  color: #000;
+  margin-left: 160px;
+  margin-top: 20px;
+}
+
+.nam .thanh .loi, .nam .thanh .loi1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 160px;
+  margin-top: 40px;
+}
+
+.nam .thanh .loi p, .nam .thanh .loi1 p {
+  margin-left: 10px;
+}
+
+.nam .y {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 561px;
+  margin-left: 5%;
+  margin-right: 5%;
+  max-width: 1536px;
+  counter-reset: list;
+}
+
+.lao {
+  margin-top: 60px;
+  height: 51px;
+  background-color: #a6a6a6;
+}
+
+.lao ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 750px;
+}
+
+.lao ul li {
+  margin-top: 15px;
+}
+
+.lao ul li a {
+  padding-top: 10px;
+  color: #000;
+  font-size: 11px;
+  margin-left: 10px;
+}
+
+.lao button {
+  margin-left: 1150px;
+  margin-top: -28px;
+  width: 126px;
+  height: 34px;
+  color: white;
+  background-color: #505050;
+}
+/*# sourceMappingURL=4_4.css.map */

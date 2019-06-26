@@ -1,0 +1,12 @@
+.cha {
+  width: 435px;
+  height: 80px;
+  background: url("http://picsum.photos/300/300") no-repeat right center;
+}
+
+.cha .con {
+  width: 435px;
+  height: 15px;
+  background: blue;
+}
+/*# sourceMappingURL=anh.css.map */

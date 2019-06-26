@@ -1,0 +1,24 @@
+body {
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin-top: 80px;
+  font-size: 60px; }
+  body p {
+    position: relative;
+    padding: 20px 24px 10px 15px;
+    font-size: 30px;
+    color: white;
+    background: #666; }
+    body p:hover {
+      color: red; }
+      body p:hover:after {
+        display: block; }
+    body p:after {
+      width: 8px;
+      height: 8px;
+      background: red;
+      position: absolute;
+      left: 0;
+      bottom: -4px;
+      transition: all 0.5s; }

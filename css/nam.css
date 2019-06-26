@@ -1,0 +1,13 @@
+.text {
+  color: red;
+  padding: 10px 5px 5px 5px; }
+
+.toi {
+  display: flex;
+  padding: 20px 5px 10px 5px; }
+
+.list {
+  display: flex; }
+
+.em {
+  border: 2px solid red; }

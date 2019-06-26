@@ -1,0 +1,44 @@
+a {
+  position: relative;
+  padding: 20px 24px 10px 15px;
+  font-size: 30px;
+  color: white;
+  background: #666;
+  z-index: 1;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  overflow: hidden;
+}
+
+a:hover {
+  color: beige;
+}
+
+a:hover:after {
+  display: block;
+}
+
+a:after {
+  content: ' ';
+  position: absolute;
+  right: -4px;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  z-index: -1;
+}
+
+body {
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 10px;
+}
+/*# sourceMappingURL=7_4.css.map */
